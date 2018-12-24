@@ -28,4 +28,5 @@
            ELSE
                 DISPLAY 'ERROR RETRIEVING DATA ' SQLCODE
            END-IF.
+           DISPLAY 'CHANGE 001'.
            STOP RUN.
