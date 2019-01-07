@@ -29,4 +29,5 @@
                 DISPLAY 'ERROR RETRIEVING DATA ' SQLCODE
            END-IF.
            DISPLAY 'CHANGE 001'.
+           DISPLAY 'JAN 7TH 2019'. 
            STOP RUN.
