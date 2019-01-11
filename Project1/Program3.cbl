@@ -4,5 +4,5 @@
        DATA DIVISION.
        PROCEDURE DIVISION.
             DISPLAY 'PROGRAM2 RAN SUCCESSFULLY'.
-            DISPLAY 'HELLO5'.
+            DISPLAY 'HELLO6'.
             STOP RUN.
