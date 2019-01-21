@@ -28,5 +28,6 @@
            ELSE
                 DISPLAY 'ERROR RETRIEVING DATA  ' SQLCODE
            END-IF.
-           DISPLAY 'JAN 18TH 2019'. 
+           DISPLAY 'JAN 18TH 2019'.
+           DISPLAY 'CHANGE-1 ON JAN 21ST 2019'.
            STOP RUN.
