@@ -30,4 +30,5 @@
            END-IF.
            DISPLAY 'JAN 18TH 2019'.
            DISPLAY 'CHANGE-1 ON JAN 21ST 2019'.
+           DISPLAY 'CHANGE-1 ON JAN22ND 2019'.
            STOP RUN.
