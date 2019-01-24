@@ -35,4 +35,5 @@
            DISPLAY 'CHANGE-1 ON JAN 23RD 2019'.
            DISPLAY 'CHANGE-2 ON JAN 23RD 2019'.
            DISPLAY 'CHANGE-2 ON JAN 24th 2019'.
+           DISPLAY 'CHANGE-3 ON JAN 24th 2019'.
            STOP RUN.
